@@ -2,7 +2,7 @@
 - <b>E.M. Bender and A. Lascarides</b>: Linguistic Fundamental for Natural Language Processing: 100
 - <b>Essentials from Semantics and Pragmatics</b>: Morgan & Claypool Publishers, 2019
 - <b>Vajjala and B. Majumder</b>: Practical natural Language Processing, O'Reilly, 2020
-- <b>Jurafsky, J. M. Martin</b>: Speech and Language Processing, Second Edition, Pearson International, 2008
+- <b>Jurafsky, J. M. Martin</b>: Speech and Language Processing, Third Edition, Pearson International, 2019
 - <b>M. Nugues</b>: Language Processing with Perl and Prolog, Second Edition, Springer Verlag, 2014
 - <b>Carnie</b>: Syntax: A Generative Introduction, Third Edition, Wiley-Blackwell, 2013
 - <b>Steedman</b>: The Syntactic Process, MIT press, 2001
