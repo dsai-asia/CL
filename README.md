@@ -25,4 +25,4 @@
     - A free, open-source natural language processing platform for building state of the art models.
     
  ![Erasmus Logo](Erasmus_logo.png) 
- ![DSAI Logo](DSAI_logo.png)
+ ![DSAI Logo](DSAI_logo.jpg)
